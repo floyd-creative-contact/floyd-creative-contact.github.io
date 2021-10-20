@@ -57,6 +57,20 @@
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
+
+  /* CSS HEX */
+  --oxford-blue: #000022ff;
+  --deep-space-sparkle: #4c5b5cff;
+  --dark-sky-blue: #78c0e0ff;
+  --peach-crayola: #f7c59fff;
+  --dark-sienna: #32161fff;
+
+  /* CSS HSL */
+  --oxford-blue: hsla(240, 100%, 7%, 1);
+  --deep-space-sparkle: hsla(184, 10%, 33%, 1);
+  --dark-sky-blue: hsla(198, 63%, 67%, 1);
+  --peach-crayola: hsla(26, 85%, 80%, 1);
+  --dark-sienna: hsla(341, 39%, 14%, 1);
 }
 
 *,
